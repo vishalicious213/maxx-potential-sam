@@ -30,6 +30,15 @@ header h1 {
 
 /* PORTFOLIO */
 
+.portfolio {
+    padding: 1rem;
+    text-align: center;
+}
+
+.portfolio h2 {
+    margin-bottom: 1rem;
+}
+
 .project {
     text-align: center;
     width: 25%;
@@ -49,4 +58,11 @@ header h1 {
     border-top: 1px solid black;
     border-bottom: 2px solid black;
     margin-bottom: 1rem;
+}
+
+/* FOOTER */
+
+footer {
+    padding: 1rem 0 2rem;
+    text-align: center;
 }
