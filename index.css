@@ -32,8 +32,12 @@ header p {
 
 /* HERO SECTION */
 
-.hero img {
-    width: 100%;
+.hero {
+    height: 45vh;
+    background-image: url(./img/hero1.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
 }
 
 /* PORTFOLIO */
