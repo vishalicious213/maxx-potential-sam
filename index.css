@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: helvetica, sans-serif;
+    font-family: "Roboto", sans-serif;
 }
 
 /* HEADER */
@@ -68,9 +68,15 @@ header p {
 }
 
 .project-details {
-    border-top: 1px solid black;
-    border-bottom: 2px solid black;
+    border-top: 2px solid #0D4B6E;
+    border-bottom: 4px solid #0D4B6E;
     margin-bottom: 1rem;
+}
+
+.project-details h3 {
+    font-size: 1.25rem;
+    font-weight: 200;
+    text-transform: uppercase;
 }
 
 .project-details a {
@@ -78,6 +84,11 @@ header p {
     font-family: "Baskervville", serif;
     font-weight: 400;
     font-style: italic;
+    text-decoration: none;
+}
+
+.project-details p {
+    margin-top: -.4rem;
 }
 
 /* FOOTER */
