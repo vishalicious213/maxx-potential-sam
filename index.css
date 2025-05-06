@@ -98,8 +98,12 @@ header p {
 /* FOOTER */
 
 footer {
-    padding: 2rem 0 3rem;
+    padding: 3rem;
     text-align: center;
     color: white;
     background: #3D3D3D;
+}
+
+footer a {
+    color: white;
 }
