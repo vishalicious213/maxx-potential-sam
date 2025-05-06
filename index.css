@@ -63,6 +63,8 @@ header h1 {
 
 .project-details a {
     color: #BB1F25;
+    font-family: "Baskervville", serif;
+    font-weight: 400;
     font-style: italic;
 }
 
