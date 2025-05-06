@@ -35,7 +35,13 @@ header h1 {
     width: 25%;
 }
 
-.project img {
+.projects {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.projects img {
     width: 100%;
 }
 
