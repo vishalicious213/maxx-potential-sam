@@ -4,6 +4,8 @@
     box-sizing: border-box;
 }
 
+/* HEADER */
+
 header {
     display: flex;
     align-items: center;
@@ -20,6 +22,25 @@ header h1 {
     text-transform: uppercase;
 }
 
+/* HERO SECTION */
+
 .hero img {
     width: 100%;
+}
+
+/* PORTFOLIO */
+
+.project {
+    text-align: center;
+    width: 25%;
+}
+
+.project img {
+    width: 100%;
+}
+
+.project-details {
+    border-top: 1px solid black;
+    border-bottom: 2px solid black;
+    margin-bottom: 1rem;
 }
