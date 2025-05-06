@@ -43,11 +43,12 @@ header p {
 /* PORTFOLIO */
 
 .portfolio {
-    padding: 1rem;
+    padding: 2rem;
     text-align: center;
 }
 
 .portfolio h2 {
+    text-transform: uppercase;
     margin-bottom: 1rem;
 }
 
