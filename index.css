@@ -60,6 +60,11 @@ header h1 {
     margin-bottom: 1rem;
 }
 
+.project-details a {
+    color: #BB1F25;
+    font-style: italic;
+}
+
 /* FOOTER */
 
 footer {
