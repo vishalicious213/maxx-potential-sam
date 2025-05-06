@@ -48,6 +48,7 @@ header p {
 }
 
 .portfolio h2 {
+    font-size: 1.75rem;
     text-transform: uppercase;
     margin-bottom: 1rem;
 }
@@ -71,10 +72,12 @@ header p {
     border-top: 2px solid #0D4B6E;
     border-bottom: 4px solid #0D4B6E;
     margin-bottom: 1rem;
+    
+    padding: .25rem;
 }
 
 .project-details h3 {
-    font-size: 1.25rem;
+    font-size: 1.5rem;
     font-weight: 200;
     text-transform: uppercase;
 }
@@ -82,6 +85,7 @@ header p {
 .project-details a {
     color: #BB1F25;
     font-family: "Baskervville", serif;
+    font-size: 1.25rem;
     font-weight: 400;
     font-style: italic;
     text-decoration: none;
