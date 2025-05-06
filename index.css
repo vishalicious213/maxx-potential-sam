@@ -63,6 +63,8 @@ header h1 {
 /* FOOTER */
 
 footer {
-    padding: 1rem 0 2rem;
+    padding: 2rem 0 3rem;
     text-align: center;
+    color: white;
+    background: #3D3D3D;
 }
